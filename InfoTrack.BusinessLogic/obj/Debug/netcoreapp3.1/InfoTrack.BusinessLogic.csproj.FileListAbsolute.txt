@@ -1,0 +1,12 @@
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\bin\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.deps.json
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\bin\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\bin\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.pdb
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\obj\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\obj\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.AssemblyInfo.cs
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\obj\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\obj\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\obj\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.pdb
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\obj\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\bin\Debug\netcoreapp3.1\InfoTrack.DataAccess.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\bin\Debug\netcoreapp3.1\InfoTrack.DataAccess.pdb
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.BusinessLogic\obj\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.csproj.CopyComplete

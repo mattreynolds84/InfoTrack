@@ -1,0 +1,9 @@
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.Domain\bin\Debug\netcoreapp3.1\InfoTrack.Domain.deps.json
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.Domain\bin\Debug\netcoreapp3.1\InfoTrack.Domain.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.Domain\bin\Debug\netcoreapp3.1\InfoTrack.Domain.pdb
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.Domain\obj\Debug\netcoreapp3.1\InfoTrack.Domain.AssemblyInfoInputs.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.Domain\obj\Debug\netcoreapp3.1\InfoTrack.Domain.AssemblyInfo.cs
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.Domain\obj\Debug\netcoreapp3.1\InfoTrack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.Domain\obj\Debug\netcoreapp3.1\InfoTrack.Domain.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.Domain\obj\Debug\netcoreapp3.1\InfoTrack.Domain.pdb
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.Domain\obj\Debug\netcoreapp3.1\InfoTrack.Domain.csprojAssemblyReference.cache

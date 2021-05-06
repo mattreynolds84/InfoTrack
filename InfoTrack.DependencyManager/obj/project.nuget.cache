@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKffdQBjedc71sikH4tT5tpJWGXuA+FQODzVVXGs6pbGh4D4bOu8ev0oYYA+xiZpYIQsP2sipp14F1exV2bZlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mattreynolds\\source\\repos\\InfoTrack\\InfoTrack.DependencyManager\\InfoTrack.DependencyManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mattreynolds\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\mattreynolds\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

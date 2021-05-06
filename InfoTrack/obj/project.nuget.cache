@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+DiDgiIoj4OppZFySYM1nfPdiWrdiwO9Svk+4g3YaM24dBM5a5vrm3luc5W7uMIXG9epttxNURcesoqMKeNZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mattreynolds\\source\\repos\\InfoTrack\\InfoTrack\\InfoTrack.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mattreynolds\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\mattreynolds\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\mattreynolds\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\mattreynolds\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

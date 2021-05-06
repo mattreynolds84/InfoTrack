@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InfoTrack.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "InfoTrack.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "InfoTrack.BusinessLogic.dll": {}
+        }
+      },
+      "InfoTrack.DataAccess/1.0.0": {
+        "runtime": {
+          "InfoTrack.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InfoTrack.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfoTrack.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

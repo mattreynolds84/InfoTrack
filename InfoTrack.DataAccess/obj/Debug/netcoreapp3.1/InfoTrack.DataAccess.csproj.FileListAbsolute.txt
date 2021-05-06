@@ -1,0 +1,8 @@
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DataAccess\bin\Debug\netcoreapp3.1\InfoTrack.DataAccess.deps.json
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DataAccess\bin\Debug\netcoreapp3.1\InfoTrack.DataAccess.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DataAccess\bin\Debug\netcoreapp3.1\InfoTrack.DataAccess.pdb
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DataAccess\obj\Debug\netcoreapp3.1\InfoTrack.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DataAccess\obj\Debug\netcoreapp3.1\InfoTrack.DataAccess.AssemblyInfo.cs
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DataAccess\obj\Debug\netcoreapp3.1\InfoTrack.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DataAccess\obj\Debug\netcoreapp3.1\InfoTrack.DataAccess.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DataAccess\obj\Debug\netcoreapp3.1\InfoTrack.DataAccess.pdb

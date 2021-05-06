@@ -1,0 +1,14 @@
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\bin\Debug\netcoreapp3.1\InfoTrack.DependencyManager.deps.json
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\bin\Debug\netcoreapp3.1\InfoTrack.DependencyManager.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\bin\Debug\netcoreapp3.1\InfoTrack.DependencyManager.pdb
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\bin\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\bin\Debug\netcoreapp3.1\InfoTrack.DataAccess.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\bin\Debug\netcoreapp3.1\InfoTrack.BusinessLogic.pdb
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\bin\Debug\netcoreapp3.1\InfoTrack.DataAccess.pdb
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\obj\Debug\netcoreapp3.1\InfoTrack.DependencyManager.csprojAssemblyReference.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\obj\Debug\netcoreapp3.1\InfoTrack.DependencyManager.AssemblyInfoInputs.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\obj\Debug\netcoreapp3.1\InfoTrack.DependencyManager.AssemblyInfo.cs
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\obj\Debug\netcoreapp3.1\InfoTrack.DependencyManager.csproj.CoreCompileInputs.cache
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\obj\Debug\netcoreapp3.1\InfoTrack.DependencyManager.csproj.CopyComplete
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\obj\Debug\netcoreapp3.1\InfoTrack.DependencyManager.dll
+C:\Users\mattreynolds\source\repos\InfoTrack\InfoTrack.DependencyManager\obj\Debug\netcoreapp3.1\InfoTrack.DependencyManager.pdb
